@@ -3,9 +3,9 @@ Yahooclone please don't copy
 
 pkg install python2
 
-pip install requests
+pip2 install requests
 
-pip install mechanize
+pip2 install mechanize
 
 pkg install git
 
